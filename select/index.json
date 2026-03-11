@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ファンデーション",
+  "base_artist": "奈良瀬",
+  "createdAt": "2026-03-11T17:41:03.821599Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Foundation [ファンデーション]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/01_Foundation_[ファンデーション]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ファンデーション",
+      "artist": "BIGMAMA",
+      "has_synced": false,
+      "path": "select/02_ファンデーション_BIGMAMA.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ファンデーション",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/03_ファンデーション_CLAN_QUEEN.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ファンデーション",
+      "artist": "KOWICHI",
+      "has_synced": false,
+      "path": "select/04_ファンデーション_KOWICHI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ファンデーション",
+      "artist": "奈良瀬",
+      "has_synced": false,
+      "path": "select/pl_01_ファンデーション_奈良瀬.txt"
+    }
+  ]
+}
